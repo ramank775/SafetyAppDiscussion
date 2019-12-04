@@ -1,7 +1,7 @@
 
 # Let's be a human again
 
-This report for the initiative to bring people to contribute voluntarily, to help the person in need nearby. 
+This repo for the initiative to bring people to contribute voluntarily, to help the person in need nearby. 
 
 
 The motive of this initiative is to provide help to the needy as soon as possible, maintaining the authenticity so that people can trust the platform.
