@@ -56,6 +56,8 @@ What different we are expecting
 
 * In case of mishaps if happens, an application can provide the identity of the person.
 
+* Verified user's only. Every profile should be verified using govt provided indentity like Aadhaar card (which can we verified online easily) to avoid spamming or misuse 
+
 * [Like to have] Raise an SOS/Emergency alarm so the application could even work in state if no network available.
 
 
