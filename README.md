@@ -39,10 +39,13 @@ Cool i apperciate that you wants to contribute towards the initiative.
 
 To contribute you can raise a the issue as we can in a initial stage, if need any help that you can do
 
-** Introduce yourself [here](https://github.com/ramank775/SafetyAppDiscussion/issues/new?assignees=&labels=&template=introduction.md&title=). This will help us to find out how best can you contribute towards the progress
-** Let us know the problem you are facing or if you have any suggestion [here](https://github.com/ramank775/SafetyAppDiscussion/issues/new?assignees=&labels=&template=problem-statement.md&title=). This will help us to get the idea about the real situation we need to handle
-** Let us know if you have a feature you need in mind [here](https://github.com/ramank775/SafetyAppDiscussion/issues/new?assignees=&labels=&template=feature_request.md&title=)
-** Let us know if you feel that we are going in wrong direction [here](https://github.com/ramank775/SafetyAppDiscussion/issues/new?assignees=&labels=&template=bug_report.md&title=)
+* Introduce yourself [here](https://github.com/ramank775/SafetyAppDiscussion/issues/new?assignees=&labels=&template=introduction.md&title=). This will help us to find out how best can you contribute towards the progress
+
+* Let us know the problem you are facing or if you have any suggestion [here](https://github.com/ramank775/SafetyAppDiscussion/issues/new?assignees=&labels=&template=problem-statement.md&title=). This will help us to get the idea about the real situation we need to handle
+
+* Let us know if you have a feature you need in mind [here](https://github.com/ramank775/SafetyAppDiscussion/issues/new?assignees=&labels=&template=feature_request.md&title=)
+
+* Let us know if you feel that we are going in wrong direction [here](https://github.com/ramank775/SafetyAppDiscussion/issues/new?assignees=&labels=&template=bug_report.md&title=)
 
 
 
