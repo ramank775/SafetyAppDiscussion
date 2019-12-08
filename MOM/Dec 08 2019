@@ -7,7 +7,8 @@ The agenda of the meeting is to come off with a specific problem statement to wo
 
 Features of the technical platform:
 1. A user uses it to send alerts to nearby volunteers along with the emergency contact person, 
-   which the user selected to reach out to in case of emergency. Raising alter should be either by a specific key combination or by any mean which doesn't need much user intervention.
+   which the user selected to reach out to in case of emergency. Raising alter should be either by a specific key combination 
+   or by any mean which doesn't need much user intervention.
    
 2. Track me feature, when activated user needs to add fill up some of the required info like from and to location, can share the 
    journey with friends, family, etc and application will keep tracking the user journey. If something unusual happens like user 
