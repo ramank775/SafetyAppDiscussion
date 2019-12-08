@@ -1,0 +1,38 @@
+This is moments of the meeting of discussion on Dec 08, 2019 over the telegram group
+
+The agenda of the meeting is to come off with a specific problem statement to work on.
+
+1. A group of volunteers, who can reach out to the needy asap.
+2. A platform that assists the volunteers.
+
+Features of the technical platform:
+1. A user uses it to send alerts to nearby volunteers along with the emergency contact person, 
+   which the user selected to reach out to in case of emergency. Raising alter should be either by a specific key combination or by any mean which doesn't need much user intervention.
+   
+2. Track me feature, when activated user needs to add fill up some of the required info like from and to location, can share the 
+   journey with friends, family, etc and application will keep tracking the user journey. If something unusual happens like user 
+   not following the desired route, or waiting at a place for long or such activity detected by the algorithm or an ML model running
+   on the user device, if something usual detected application will automatically send a soft alert for the first time to the user's with
+   whom journey is shared or emergency contact's, now those user(s) can contact the user and mark the activity safe or raise the 
+   alter on his/her behalf.
+
+3. Information of the needy shared with the volunteers, should not contain any personal information. Only minimal information is
+   to be shared so that volunteers can reach out to the needy.
+   * Features like snap chat where other users unable to take a screenshot of the picture shared are desirable.
+
+4. In many cases, it is observed that reaching out the mobile is not an option, as either the mobile phone is snatched, to thrown away
+   or switched off, a proposal to design an IoT device that used to trigger the alert message.
+   There are the following options regarding the IoT devices:
+   i)   An independent smartwatch, band, or wearable item, that can work on its own with or without the Internet. 
+        But needs u to insert a sim card. 
+   ii)  An IoT device that will use phones to work. It will work until ur snatched phone is within Bluetooth range and not switched off.
+   iii) An app that will be universal to all smartwatches, that will send information to our server. 
+
+
+5. In case of an accident, anyone can use a specific key combination. Once the key combination is pressed
+   Lock screen wallpaper will be change to a QR code, which can be scanned by the application, leads to sending
+   alert messages to the emergency contact persons and all the basic details which are helpful in those cases.
+
+6. Registration to the platform will be done using a govt provided identity proof such as Aadhar card, which can be used to verify the
+   the authenticity of the user. This will also prevent spam on the platform
+   
