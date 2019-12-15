@@ -1,20 +1,20 @@
 
 # Let's be a human again
 
-This repo for the initiative to bring people to contribute voluntarily, to help the person in need nearby. 
+This repo is an initiative to bring people to contribute voluntarily, to help a nearby needy person. 
 
 
-The motive of this initiative is to provide help to the needy as soon as possible, maintaining authenticity so that people can trust the platform.
+The motives behind this initiative are to provide help to the needy as soon as possible, to maintain authenticity so that people can trust the platform.
 
 
 
 # Why?
 
-This initiative started by the disheartened, angry, ashamed ones about the recent series of activities such as rape be it the Hyderabad case, Delhi case, increasing the number of eve-teasing cases, the death number of road accidents and the list goes on.
+This initiative was taken by the disheartened, angry, ashamed one by the recent series of events such as Rape, be it the Hyderabad case or the Delhi case, increasing number of eve-teasing, number of death in road accidents and the list goes on.
 
 
 
-The ultimate goal of this initiative is to create a safe environment for every one of us when we get out of our homes.
+The ultimate goal of this initiative is to create a safe environment for every one of us when we are out of our home.
 
 
 
@@ -22,27 +22,27 @@ The ultimate goal of this initiative is to create a safe environment for every o
 
 
 
-There are two parts of this initiative  
-* Create a group a voluntaries 
+This initiative include 2 steps:
+*To create a group a volunteers
 
-* Provide a technical platform that helps the group of volunteers to act smoothly
-
-
-
-# Why another safety app, aren't there are already many?
-
-This intention of creating a new security app, as any of the existing application doesn't really solve the problem 
-Almost of these applications required
-
-* Reliable internet connection, as they continuously track the user
-
-* Too much of user intervention required to raise an alert, which is not always the case
-
-* Even if the alarm is raised, the person who got's the notification is sitting far away and not always the best first person to react
+* To provide a technical platform to the group to act smoothly
 
 
 
-What different we are expecting 
+# Why another safety app, aren't there already many?
+
+The reason behind a new security app is that the existing applications doesn't really solve the problem. 
+Almost, all of these applications require
+
+* A reliable internet connection, as they continuously track the user
+
+* Too much of user interventions required to raise an alert, which is not always the case
+
+* Even if the alarm raised, the person who got the notification is sitting far away and not always the best first person to react
+
+
+
+What different are we expecting ?
 
 * Offline first application, i.e. application can even work in offline mode.
 
@@ -76,7 +76,7 @@ Cool, we appreciate that you want to contribute towards the initiative.
 
 
 
-To contribute you can raise at the issue as we can in an initial stage if need any help that you can do
+To contribute, you can raise the issue as we can in an initial stage if need any help that you can do
 
 
 
