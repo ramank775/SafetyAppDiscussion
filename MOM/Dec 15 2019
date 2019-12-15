@@ -1,0 +1,36 @@
+This is moments of the meeting of discussion on Dec 15, 2019 over the telegram group
+
+The agenda of the meeting is to decide the tech stack.
+
+Server Side Tech Stack
+For server side development we decided to follow micro-service architecture where each service is running behind a proxy server like nginx
+Reason for choosing this architecture 
+ - It bring resilience and scalibility out of the box
+ - Able to use multiple languages depending upon the use case (like nodejs, python, .net core)
+ - using multiple languages also attract different contributer from different domain to work on
+ 
+ Note: weather to go with multiple languages or using a single language is something we still  need to make a final call
+ 
+ Languages which are propose within the discussion:
+ - Nodejs
+ - .Net Core
+ - Python
+  
+  
+Client Side Tech Stack
+As one of the core feature or requirement is that application should be able to work in offline mode, hence keeping this in mind we 
+needed to have a single code base, as it will contains the core algo's to keep application working in the offline mode.
+With offline first approach we also need to consider that the core algo's will need to use native api available.
+
+Considering the above mentioned points, platform/framework which are explore are as follows
+
+1. React Native
+2. Flutter
+3. Xamarin
+
+With Xamarin, developement cost is high, also for using Xamarin one needed to use visual studio which is not first choice of everyone
+With React Native, one of the point that comes up during the discussion is the performance, Other than performance React native doesn't 
+have support for all the native api which can be overcome by writing native code as supported by it.
+
+Finally it decided to go with Flutter, as it overcomes the problem with the above two. With Flutter one can build natively performing
+applications just like Xamarin, using the any IDE. Also it provides access to all the native api's
